@@ -1,4 +1,3 @@
-# ¡Hola! Soy Alejandro Serrano.  
 💻 **SysAdmin | Service Desk Analyst | Ciberseguridad & Automation Enthusiast**
 
 Técnico IT con más de 10 años de experiencia y sólida base en **administración de sistemas, automatización y seguridad**.  
