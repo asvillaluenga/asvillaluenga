@@ -1,86 +1,73 @@
-# 👋 ¡Hola! Soy Alejandro S.
+# ¡Hola! Soy Alejandro Serrano.  
+💻 **SysAdmin | Service Desk Analyst | Ciberseguridad & Automation Enthusiast**
 
-💻 **Service Desk Analyst | SysAdmin | Ciberseguridad & Automation Enthusiast**
-
-Soy técnico IT con más de 10 años de experiencia profesional y una sólida base en administración de sistemas, soporte técnico y automatización.  
-Actualmente estoy enfocando mi carrera hacia **Ciberseguridad, Infraestructura y DevSecOps**, combinando mi experiencia en IT corporativo con mi pasión por el aprendizaje continuo y la experimentación en entornos reales.
-
----
-
-## 🧠 Sobre mí
-
-- 🧾 Llevo más de **6 años trabajando en entornos IT corporativos**, administrando entornos Windows y Linux.
-- 🧰 Mantengo un **Homelab avanzado**, donde pruebo y desarrollo soluciones reales de automatización, monitorización y seguridad.
-- ⚡ Me interesa todo lo relacionado con **Ciberseguridad defensiva, inteligencia artificial, virtualización y cloud**.
-- 🧩 Multilingüe (Español 🇪🇸, Inglés 🇬🇧, Italiano 🇮🇹, Portugués 🇵🇹, y estudiando Japonés 🇯🇵 y Aleman 🇩🇪).
+Técnico IT con más de 10 años de experiencia y sólida base en **administración de sistemas, automatización y seguridad**.  
+Actualmente enfocado en **Ciberseguridad, Infraestructura y DevSecOps**, combinando experiencia corporativa con un potente **Homelab** donde experimento con entornos reales.
 
 ---
 
-## 🏠 Mi Homelab
+## 🧠 Perfil Técnico
+- +6 años en entornos IT corporativos (Windows & Linux)  
+- Administración y automatización de redes, VPNs y servicios Docker  
+- Interés en Ciberseguridad defensiva, IA aplicada y Cloud híbrido  
+- Multilingüe 🇪🇸 🇬🇧 🇮🇹 🇵🇹 y aprendiendo 🇯🇵 🇩🇪  
 
-Este es el centro de mis proyectos y experimentos. Combina servidores físicos, VPS, Raspberry Pi, y máquinas virtuales corriendo sobre diferentes sistemas operativos.
+---
 
-### 🖥️ Infraestructura actual:
-- **2× Raspberry Pi** (Pi-hole, PiVPN, Unbound, DNS Recursivo, Webmin)
-- **Dell Latitude 7390 (Ubuntu Server)** → NetAlertX, Uptime Kuma, MySpeed, Tautulli, Overseerr
-- **Dell Latitude 7390 (Windows 11)** → Plex Server, Suite ARR, qBittorrent, Docker, Portainer
-- **Mac Mini M2** (en pruebas)
-- **Windows Server 2022 y Kali Linux** en entornos de laboratorio
-- **Red segmentada** con DNS seguro, VPN, y monitoreo de tráfico
+## 🧠 Skills & Tools
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?logo=homeassistant)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi)
 
-📊 *Todo gestionado con dashboards de Homarr, Grafana, y alertas automatizadas vía Telegram.*
+---
 
-📁 Diagramas y documentación:  
-[🔗 Ver arquitectura del Homelab (próximamente)](./homelab-architecture)
+## 🏠 Homelab Overview
+
+Infraestructura híbrida con Raspberry Pi, Dell Latitude, VM y servidores dedicados.  
+Diseñada para **automatización, monitorización y seguridad de red**.
+
+📊 *Gestión con Docker, Portainer, Homarr, Grafana y alertas vía Telegram.*  
+📁 [🔗 Ver arquitectura y documentación](https://github.com/asvillaluenga/homelab-architecture)
 
 ---
 
 ## ⚙️ Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías |
-|-----------|--------------|--------------|
-| 🧩 [**Homelab Architecture**](#) | Diagrama completo y documentación técnica de mi red doméstica autogestionada. | draw.io, Markdown, Networking |
-| 🔐 [**Secure DNS Stack**](#) | Pi-hole + Unbound + PiVPN con DNS recursivo y cifrado. | Raspberry Pi, DNS, VPN |
-| 🧰 [**Homelab Docker Automation**](#) | Scripts y Docker Compose para desplegar y mantener servicios en contenedores. | Docker, Bash, Portainer |
-| 📈 [**Network Monitoring Suite**](#) | Stack de monitorización (NetAlertX, Uptime Kuma, MySpeed, Tautulli). | Docker, Node.js, Linux |
-| 💾 [**Backup & Recovery Scripts**](#) | Automatización de backups y rotación con logging. | Bash, Cron, rsync |
-| 🧠 [**Kali Pentest Lab**](#) | Entorno de pruebas de Ciberseguridad controlado, sin exposición pública. | Kali Linux, Wireshark, Metasploit |
-| 🤖 [**AI & Automation Playground**](#) | Scripts que integran APIs de IA (ChatGPT, LLaMA local) para tareas IT. | Python, API, Automation |
+| Proyecto | Descripción | Stack |
+|-----------|--------------|--------|
+| 🧩 [**Homelab Architecture**](#) | Diagrama y documentación completa de mi infraestructura. | draw.io · Markdown |
+| 🔐 [**Secure DNS Stack**](#) | Pi-hole + Unbound + PiVPN con DNS recursivo cifrado. | Raspberry Pi · DNS |
+| 🧰 [**Docker Automation Suite**](#) | Despliegue y mantenimiento automatizado de contenedores. | Docker · Bash |
+| 📈 [**Network Monitoring**](#) | Stack de métricas y alertas (NetAlertX, Kuma, MySpeed). | Docker · Node.js |
+| 💾 [**Backup Scripts**](#) | Automatización de backups con logging y rotación. | Bash · rsync |
 
 ---
 
-## 📱 Otros Intereses Técnicos
+## 📱 Otros Intereses
 
-- **Android Modding:** experiencia desde Android 1.6 (LG GW620) hasta Android 9 (Galaxy S9+).  
-  Desbloqueo de bootloaders, instalación de TWRP, flasheo y personalización de ROMs.  
-  📁 *Repo educativo en preparación:* [`android-customization-lab`](#)
-
-- **Energía Solar & IoT:** desarrollo de un sistema solar híbrido con monitoreo en tiempo real y baterías LiFePO4.  
-  📁 *Proyecto experimental:* [`hybrid-solar-monitor`](#)
-
-- **Impresión 3D:** integración de Ender 3 v3 SE con OctoPrint en Raspberry Pi Zero 2.  
-  📁 *Proyecto:* [`3d-print-automation`](#)
+- **Android Modding:** desbloqueo y personalización desde Android 1.6 → 9.  
+- **Energía Solar & IoT:** proyecto de sistema solar híbrido con monitoreo.  
+- **Impresión 3D:** automatización de Ender 3 v3 SE con OctoPrint.
 
 ---
 
-## 🧭 Roadmap Personal
+## 🧭 Roadmap Actual
+- 🧠 Certificaciones: SC-200 · SC-300 · CompTIA Security+  
+- 🛡️ Implementación SIEM (Wazuh + ELK)  
+- ⚙️ Automatización con Ansible & Grafana
 
-📘 **En progreso:**
-- Certificaciones: SC-200, SC-300, CompTIA Security+
-- Implementación de SIEM (Wazuh + ELK)
-- Automatización con Ansible
-- Integración de Grafana + InfluxDB para métricas de red
-
-🚀 **Objetivo 2026:**  
-Convertirme en **Security Operations Analyst / DevSecOps Engineer** con foco en automatización y seguridad de infraestructuras híbridas.
+🎯 *Objetivo 2026: Security Operations Analyst / DevSecOps Engineer.*
 
 ---
 
-## 📫 Contacto
-
-- 🌐 [LinkedIn](https://linkedin.com/in/asvillaluenga)
-
+## 📫 Conecta conmigo  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20S.-blue?logo=linkedin)](https://linkedin.com/in/asvillaluenga)
+[![GitHub](https://img.shields.io/badge/GitHub-asvillaluenga-black?logo=github)](https://github.com/asvillaluenga)
 
 ---
 
-> 🛠️ *“La mejor forma de aprender es romper, reparar, y automatizar el proceso.”*
+> 🛠️ “La mejor forma de aprender es romper, reparar y automatizar el proceso.”
