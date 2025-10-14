@@ -9,7 +9,7 @@ Actualmente enfocado en **Ciberseguridad, Infraestructura y DevSecOps**, combina
 - +6 años en entornos IT corporativos (Windows & Linux)  
 - Administración y automatización de redes, VPNs y servicios Docker  
 - Interés en Ciberseguridad defensiva, IA aplicada y Cloud híbrido  
-- Multilingüe 🇪🇸 🇬🇧 🇮🇹 🇵🇹 y aprendiendo 🇯🇵 🇩🇪  
+- Multilingüe 🇪🇸 🇬🇧 🇮🇹 🇵🇹 aprendiendo 🇯🇵 🇩🇪  
 
 ---
 
