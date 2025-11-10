@@ -14,13 +14,69 @@ Actualmente enfocado en **Ciberseguridad, Infraestructura y DevSecOps**, combina
 ---
 
 ## 🧠 Skills & Tools
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?logo=homeassistant)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi)
+
+### 💻 Systems & Platforms
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)
+
+---
+
+### ⚙️ Virtualization & Containers
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?logo=portainer&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D7?logo=windows&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white)
+
+---
+
+### 🔒 Security & Networking
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?logo=wireguard&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?logo=pihole&logoColor=white)
+![Unbound](https://img.shields.io/badge/Unbound-004B87?logo=dns&logoColor=white)
+![Fail2Ban](https://img.shields.io/badge/Fail2Ban-000000?logo=linux&logoColor=white)
+![CrowdSec](https://img.shields.io/badge/CrowdSec-5C2D91?logo=shield&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-1D9BF0?logo=shield&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![OpenSSH](https://img.shields.io/badge/OpenSSH-000000?logo=openssh&logoColor=white)
+![PiVPN](https://img.shields.io/badge/PiVPN-FF0000?logo=raspberrypi&logoColor=white)
+
+---
+
+### 📊 Monitoring & Automation
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kuma-5A8DEE?logo=uptimekuma&logoColor=white)
+![NetAlertX](https://img.shields.io/badge/NetAlertX-1E88E5?logo=network&logoColor=white)
+![MySpeed](https://img.shields.io/badge/MySpeed-FF6F00?logo=speedtest&logoColor=white)
+![Watchtower](https://img.shields.io/badge/Watchtower-2496ED?logo=docker&logoColor=white)
+![Homarr](https://img.shields.io/badge/Homarr-1E88E5?logo=homeassistant&logoColor=white)
+![Glances](https://img.shields.io/badge/Glances-2C3E50?logo=linux&logoColor=white)
+![Webmin](https://img.shields.io/badge/Webmin-4C8EDA?logo=webmin&logoColor=white)
+
+---
+
+### ☁️ Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white)
+
+---
+
+### 🧰 Tools & Utilities
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?logo=notepadplusplus&logoColor=black)
+![PuTTY](https://img.shields.io/badge/PuTTY-003366?logo=putty&logoColor=white)
+![WinSCP](https://img.shields.io/badge/WinSCP-1679A7?logo=winscp&logoColor=white)
+![Kiwix Server](https://img.shields.io/badge/Kiwix%20Server-3366CC?logo=kiwix&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-000000?logo=tailscale&logoColor=white)
+![OctoPrint](https://img.shields.io/badge/OctoPrint-13C100?logo=octoprint&logoColor=white)
+![Ender 3](https://img.shields.io/badge/Ender%203%20v3%20SE-FF6F00?logo=creality&logoColor=white)
+
 
 ---
 
