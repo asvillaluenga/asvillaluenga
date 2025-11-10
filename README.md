@@ -17,6 +17,8 @@ Actualmente enfocado en **Ciberseguridad, Infraestructura y DevSecOps**, combina
 
 ### 💻 Systems & Platforms
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D7?logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
@@ -44,6 +46,7 @@ Actualmente enfocado en **Ciberseguridad, Infraestructura y DevSecOps**, combina
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 ![OpenSSH](https://img.shields.io/badge/OpenSSH-000000?logo=openssh&logoColor=white)
 ![PiVPN](https://img.shields.io/badge/PiVPN-FF0000?logo=raspberrypi&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall%20Management-FF5733?logo=shield&logoColor=white)
 
 ---
 
@@ -56,6 +59,7 @@ Actualmente enfocado en **Ciberseguridad, Infraestructura y DevSecOps**, combina
 ![Homarr](https://img.shields.io/badge/Homarr-1E88E5?logo=homeassistant&logoColor=white)
 ![Glances](https://img.shields.io/badge/Glances-2C3E50?logo=linux&logoColor=white)
 ![Webmin](https://img.shields.io/badge/Webmin-4C8EDA?logo=webmin&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation%20Scripts-007ACC?logo=powershell&logoColor=white)
 
 ---
 
@@ -65,6 +69,17 @@ Actualmente enfocado en **Ciberseguridad, Infraestructura y DevSecOps**, combina
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white)
+
+---
+
+### 🏢 Enterprise IT & Service Management
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00A862?logo=servicenow&logoColor=white)
+![ManageEngine ServiceDesk Plus](https://img.shields.io/badge/ServiceDesk%20Plus-FF6F00?logo=manageengine&logoColor=white)
+![Snipe-IT](https://img.shields.io/badge/Snipe--IT-2E8B57?logo=inventory&logoColor=white)
+![TeamViewer](https://img.shields.io/badge/TeamViewer-0E8EE9?logo=teamviewer&logoColor=white)
+![Remote Support](https://img.shields.io/badge/Remote%20Support-0078D4?logo=remotedesktop&logoColor=white)
+![Asset Management](https://img.shields.io/badge/Asset%20Management-4CAF50?logo=database&logoColor=white)
+![Ticketing Systems](https://img.shields.io/badge/Ticketing%20Systems-FFB300?logo=itil&logoColor=white)
 
 ---
 
