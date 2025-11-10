@@ -1,4 +1,4 @@
-💻 **SysAdmin | Service Desk Analyst | Ciberseguridad & Automation Enthusiast**
+💻 **SysAdmin | Service Desk Analyst | Entusiasta de Ciberseguridad & Automatización**
 
 Técnico IT con más de 10 años de experiencia y sólida base en **administración de sistemas, automatización y seguridad**.  
 Actualmente enfocado en **Ciberseguridad, Infraestructura y DevSecOps**, combinando experiencia corporativa con un potente **Homelab** donde experimento con entornos reales.
