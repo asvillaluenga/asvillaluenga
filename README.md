@@ -98,7 +98,7 @@ Actualmente enfocado en **Ciberseguridad, Infraestructura y DevSecOps**, combina
 ## 🏠 Homelab Overview
 
 Infraestructura híbrida con Raspberry Pi, Dell Latitude, VM y servidores dedicados.  
-Diseñada para **automatización, monitorización y seguridad de red**.
+Diseñada para **automatización, backup, nube privada, monitorización y seguridad de red**.
 
 📊 *Gestión con Docker, Portainer, Homarr, Grafana y alertas vía Telegram.*  
 📁 [🔗 Ver arquitectura y documentación](https://github.com/asvillaluenga/homelab-architecture)
@@ -110,7 +110,7 @@ Diseñada para **automatización, monitorización y seguridad de red**.
 | Proyecto | Descripción | Stack |
 |-----------|--------------|--------|
 | 🧩 [**Homelab Architecture**](#) | Diagrama y documentación completa de mi infraestructura. | draw.io · Markdown |
-| 🔐 [**Secure DNS Stack**](#) | Pi-hole + Unbound + PiVPN con DNS recursivo cifrado. | Raspberry Pi · DNS |
+| 🔐 [**Secure DNS Stack**](#) | Pi-hole + Unbound + PiVPN con DNS recursivo cifrado + CrowdSec. | Raspberry Pi · DNS |
 | 🧰 [**Docker Automation Suite**](#) | Despliegue y mantenimiento automatizado de contenedores. | Docker · Bash |
 | 📈 [**Network Monitoring**](#) | Stack de métricas y alertas (NetAlertX, Kuma, MySpeed). | Docker · Node.js |
 | 💾 [**Backup Scripts**](#) | Automatización de backups con logging y rotación. | Bash · rsync |
@@ -119,7 +119,7 @@ Diseñada para **automatización, monitorización y seguridad de red**.
 
 ## 📱 Otros Intereses
 
-- **Android Modding:** desbloqueo y personalización desde Android 1.6 → 9.  
+- **Android Modding:** desbloqueo y personalización desde Android 1.6.  
 - **Energía Solar & IoT:** proyecto de sistema solar híbrido con monitoreo.  
 - **Impresión 3D:** automatización de Ender 3 v3 SE con OctoPrint.
 
@@ -130,7 +130,7 @@ Diseñada para **automatización, monitorización y seguridad de red**.
 - 🛡️ Implementación SIEM (Wazuh + ELK)  
 - ⚙️ Automatización con Ansible & Grafana
 
-🎯 *Objetivo 2026: Security Operations Analyst / DevSecOps Engineer.*
+🎯 *Objetivo 2026: Security Operations Analyst.*
 
 ---
 
